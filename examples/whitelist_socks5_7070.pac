@@ -800,6 +800,7 @@ var RULES = [
         ".zhi.hu",
         ".zhibo8.cc",
         ".zhibo8.com",
+        ".zhimg.com",
         ".zhihu.com",
         ".zhongsou.net",
         ".zhubajie.com",
