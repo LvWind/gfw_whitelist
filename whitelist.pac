@@ -56,6 +56,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".tiebaimg.com",
         ".lewaos.com",
         ".lewatek.com",
         ".zoopda.com",
@@ -963,7 +964,6 @@ var RULES = [
         ".178.com",
         ".ci123.com",
         ".yolk7.com",
-        ".tiexue.net",
         ".stockstar.com",
         ".xici.net",
         ".pcpop.com",
