@@ -56,6 +56,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".xda-china.com",
         ".tiebaimg.com",
         ".lewaos.com",
         ".lewatek.com",
