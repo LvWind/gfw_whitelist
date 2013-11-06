@@ -56,6 +56,8 @@ var RULES = [
     ],
     //custom-list
     [
+        ".lewaos.com",
+        ".lewatek.com",
         ".zoopda.com",
         ".yixun.com",
         ".jd.com",
@@ -197,6 +199,7 @@ var RULES = [
         ".360doc.com",
         ".360tl.com",
         ".36kr.com",
+        ".36krcnd.com",
         ".37see.com",
         ".39.net",
         ".3dmgame.com",
