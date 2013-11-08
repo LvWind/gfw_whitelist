@@ -56,6 +56,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".ecitic.com",
         ".xda-china.com",
         ".tiebaimg.com",
         ".lewaos.com",
