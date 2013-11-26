@@ -56,6 +56,9 @@ var RULES = [
     ],
     //custom-list
     [
+        ".zhongxingfans.com",
+        ".okhqb.com",
+        ".592zn.com",
         ".ecitic.com",
         ".xda-china.com",
         ".tiebaimg.com",
