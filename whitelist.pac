@@ -745,7 +745,6 @@ var RULES = [
         ".weiphone.com",
         ".west263.com",
         ".whlongda.com",
-        ".wikipedia.org",
         ".williamlong.info",
         ".woniu.com",
         ".wordpress.org",
