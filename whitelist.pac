@@ -287,6 +287,8 @@ var RULES = [
         ".aliyun.com",
         ".allyes.com",
         ".amazon.com",
+        ".images-amazon.com",
+        ".images-cn.ssl-images-amazon.com",
         ".anjuke.com",
         ".anzhi.com",
         ".aol.com",
