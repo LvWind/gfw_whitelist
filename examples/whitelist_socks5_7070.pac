@@ -349,6 +349,7 @@ var RULES = [
         ".cmbchina.com",
         ".cn",
         ".cnbeta.com",
+        ".cnbetacdn.com",
         ".cnblogs.com",
         ".cncn.com",
         ".cnepub.com",
