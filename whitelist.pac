@@ -56,6 +56,8 @@ var RULES = [
     ],
     //custom-list
     [
+        ".dmhy.org",
+        ".yicai.com",
         ".yicai.com",
         ".doctorcom.com",
         ".baidupcs.com",
