@@ -3974,7 +3974,6 @@ var domains = {
     "fastcdn.com" : 1,
     "fasteng.net" : 1,
     "fastif.net" : 1,
-    "fastly.net" : 1,
     "fat999.com" : 1,
     "favolist.com" : 1,
     "favortt.com" : 1,
