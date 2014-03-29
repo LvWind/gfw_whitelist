@@ -714,14 +714,9 @@ var domains = {
 };
 
 function FindProxyForURL(url, host) {
-    var lastPos;
+    var re_ipv4 = /^\d+\.\d+\.\d+\.\d+$/g, lastPos;
 
-    function check_ipv4() {
-        var re_ipv4 = /^\d+\.\d+\.\d+\.\d+$/g;
-        return re_ipv4.test(host));
-    }
-
-    if (isPlainHostName(host) === true || check_ipv4() === true) {
+    if (isPlainHostName(host) === true || re_ipv4.test(host) === true) {
         return direct;
     }
     do {
