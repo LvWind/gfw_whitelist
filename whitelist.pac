@@ -716,7 +716,7 @@ var domains = {
 function FindProxyForURL(url, host) {
     var re_ipv4 = /^\d+\.\d+\.\d+\.\d+$/g, lastPos;
 
-    if (isPlainHostName(host) === true || re_ipv4.test(host) === true) {
+    if (isPlainHostName(host) || re_ipv4.test(host)) {
         return direct;
     }
     do {
