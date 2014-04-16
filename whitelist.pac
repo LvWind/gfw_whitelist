@@ -30,6 +30,7 @@ var direct = 'DIRECT';
 
 var domains = {
     "cn": 1,
+    "uxengine.net": 1,
     "alibench.com": 1,
     "baotuba.com": 1,
     "baotuba.com": 1,
