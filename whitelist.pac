@@ -30,6 +30,7 @@ var direct = 'DIRECT';
 
 var domains = {
     "cn": 1,
+    "flydev.cc": 1,
     "godiy.net": 1,
     "uxengine.net": 1,
     "alibench.com": 1,
