@@ -643,6 +643,7 @@ var domains = {
     "xiami.com" : 1,
     "xiami.net" : 1,
     "xiaomi.com" : 1,
+    "mi.com" : 1,
     "xiaonei.com" : 1,
     "xiazaiba.com" : 1,
     "xici.net" : 1,
