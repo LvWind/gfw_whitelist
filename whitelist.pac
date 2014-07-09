@@ -1,32 +1,8 @@
 // GFW White List.
 // Program taken from gfwlist2pac https://github.com/clowwindy/gfwlist2pac
 
-    /* * * * * * * * * * * * * * * * * * * * * * * * * * 
-     *                                                 *
-     *  一定要换成你的ip地址                           *
-     *  Replace your proxy ip-address:port here!!      *
-     *                                                 *
-     * * * * * * * * * * * * * * * * * * * * * * * * * */
-
-var IP_ADDRESS = '127.0.0.1:7070'; // Need to change to a real address!!
-
-    /* * * * * * * * * * * * * * * * * * * * * * * * * * 
-     *                                                 *
-     * 代理类型 (翻墙一般适用 SOCKS 或 HTTPS)          *
-     * Proxy type                                      *
-     *                                                 *
-     * * * * * * * * * * * * * * * * * * * * * * * * * */
-
-    // HTTPS 是用于 Chrome 的安全代理
-    // http://www.chromium.org/developers/design-documents/secure-web-proxy
-
-var PROXY_TYPE = 'SOCKS5'; // or 'SOCKS5' or 'PROXY'
-
-    /* * * * * * * * * * * * * * * * * * * * * * * * * */
-
-var proxy = PROXY_TYPE + ' ' + IP_ADDRESS;
+var proxy = 'SOCKS5 127.0.0.1:7070; SOCKS 127.0.0.1:7070; DIRECT';
 var direct = 'DIRECT';
-
 
 var domains = {
     "flydev.cc": 1,
