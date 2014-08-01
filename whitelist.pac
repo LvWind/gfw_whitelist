@@ -275,7 +275,6 @@ var domains = {
     "fengniao.com" : 1,
     "fenzhi.com" : 1,
     "ffdy.cc" : 1,
-    "flickr.com" : 1,
     "fobshanghai.com" : 1,
     "ftchinese.com" : 1,
     "ftuan.com" : 1,
