@@ -5,6 +5,8 @@ var proxy = 'SOCKS5 127.0.0.1:7070; SOCKS 127.0.0.1:7070; DIRECT';
 var direct = 'DIRECT';
 
 var domains = {
+    "antgou.com": 1,
+    "teambition.com": 1,
     "coolapk.com": 1,
     "antgou.com": 1,
     "flydev.cc": 1,
