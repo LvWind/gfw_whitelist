@@ -330,6 +330,8 @@ var domains = {
     "idailyapp.com" : 1,
     "ifeng.com" : 1,
     "ifengimg.com" : 1,
+    "feng.com" : 1,
+    "myapp.com" : 1,
     "ifensi.com" : 1,
     "ijinshan.com" : 1,
     "iloveyouxi.com" : 1,
