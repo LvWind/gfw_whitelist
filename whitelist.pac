@@ -680,6 +680,7 @@ var domains = {
     "zhibo8.cc" : 1,
     "zhibo8.com" : 1,
     "zhihu.com" : 1,
+    "zhihudaily.net" : 1,
     "zhimg.com" : 1,
     "zhongsou.net" : 1,
     "zhongxingfans.com" : 1,
