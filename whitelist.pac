@@ -7,6 +7,7 @@ var direct = 'DIRECT';
 var domains = {
     "antgou.com": 1,
     "teambition.com": 1,
+    "51credit.com": 1,
     "coolapk.com": 1,
     "antgou.com": 1,
     "flydev.cc": 1,
