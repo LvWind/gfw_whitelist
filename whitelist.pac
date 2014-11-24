@@ -670,7 +670,6 @@ var domains = {
     "youwo123.com" : 1,
     "yupoo.com" : 1,
     "yxlady.com" : 1,
-    "yyets.com" : 1,
     "zaobao.com" : 1,
     "zaojiao.com" : 1,
     "zbjimg.com" : 1,
