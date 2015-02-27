@@ -602,7 +602,6 @@ var domains = {
     "uusee.com" : 1,
     "uuu9.com" : 1,
     "uuzu.com" : 1,
-    "v2ex.com" : 1,
     "vancl.com" : 1,
     "vcimg.com" : 1,
     "verycd.com" : 1,
