@@ -5,6 +5,16 @@ var proxy = 'SOCKS5 127.0.0.1:7070; SOCKS 127.0.0.1:7070; DIRECT';
 var direct = 'DIRECT';
 
 var domains = {
+    "csi.gstatic.com":1,
+    "dl.google.com":1,
+    "fonts.googleapis.com": 1,
+    "fonts.gstatic.com": 1,
+    "google-analytics.com": 1,
+    "googleadservices.com": 1,
+    "googleanalytics.com": 1,
+    "googlesyndication.com": 1,
+    "googletagmanager.com": 1,
+    "googletagservices.com": 1,
     "swsmu.com": 1,
     "hexun.com": 1,
     "guokr.com": 1,
