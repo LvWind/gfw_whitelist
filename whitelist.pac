@@ -15,6 +15,8 @@ var domains = {
     "googlesyndication.com": 1,
     "googletagmanager.com": 1,
     "googletagservices.com": 1,
+    "xueqiu.com": 1,
+    "imedao.com": 1,
     "swsmu.com": 1,
     "hexun.com": 1,
     "guokr.com": 1,
