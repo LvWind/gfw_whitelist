@@ -164,6 +164,7 @@ var domains = {
     "anjuke.com" : 1,
     "anzhi.com" : 1,
     "aol.com" : 1,
+    "myappgame.com" : 1,
     "appgame.com" : 1,
     "appinn.com" : 1,
     "apple.com" : 1,
