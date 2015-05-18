@@ -6,6 +6,7 @@ var direct = 'DIRECT';
 
 var domains = {
     "oppo.com":1,
+    "oppomobile.com":1,
     "oneplusbbs.com":1,
     "coloros.com":1,
     "guanaitong.com":1,
