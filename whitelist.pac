@@ -6,6 +6,9 @@ var direct = 'DIRECT';
 
 var domains = {
     "cailianpress.com":1,
+    "requirejs.org":1,
+    "uqer.io":1,
+    "wmcloud.com":1,
     "staticfile.org":1,
     "nextbang.com":1,
     "boqii.com":1,
