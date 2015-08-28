@@ -1,7 +1,7 @@
 // GFW White List.
 // Program taken from gfwlist2pac https://github.com/clowwindy/gfwlist2pac
 
-var proxy = 'SOCKS5 127.0.0.1:7070; SOCKS 127.0.0.1:7070; DIRECT';
+var proxy = 'PROXY 127.0.0.1:8123; DIRECT';
 var direct = 'DIRECT';
 
 var domains = {
