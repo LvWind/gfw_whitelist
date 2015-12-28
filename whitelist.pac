@@ -4,6 +4,8 @@
 var proxy = 'PROXY 127.0.0.1:8123; DIRECT';
 var direct = 'DIRECT';
 
+if (url.substring(0,4)=="ftp:") return direct;
+
 var domains = {
     "pingwest.com":1,
     "bootcss.com":1,
