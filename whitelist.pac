@@ -4,8 +4,6 @@
 var proxy = 'PROXY 127.0.0.1:8123; DIRECT';
 var direct = 'DIRECT';
 
-if (url.substring(0,4)=="ftp:") return direct;
-
 var domains = {
     "pingwest.com":1,
     "bootcss.com":1,
@@ -742,9 +740,14 @@ var domains = {
 function FindProxyForURL(url, host) {
     var re_ipv4 = /^\d+\.\d+\.\d+\.\d+$/g, lastPos;
 
+    if (url.substring(0,4)=="ftp:") {
+        return direct;
+    }
+
     if (isPlainHostName(host) || re_ipv4.test(host)) {
         return direct;
     }
+
     do {
         if (domains.hasOwnProperty(host)) {
             return direct;
@@ -752,6 +755,7 @@ function FindProxyForURL(url, host) {
         lastPos = host.indexOf('.') + 1;
         host = host.slice(lastPos);
     } while (lastPos >= 1);
+
     return proxy;
 }
 
