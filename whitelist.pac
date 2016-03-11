@@ -5,6 +5,7 @@ var proxy = 'PROXY 127.0.0.1:8123; DIRECT';
 var direct = 'DIRECT';
 
 var domains = {
+    "clouddn.com":1,
     "pingwest.com":1,
     "bootcss.com":1,
     "css.net":1,
