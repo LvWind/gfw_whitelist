@@ -542,6 +542,7 @@ var domains = {
     "qidian.com" : 1,
     "qingdaonews.com" : 1,
     "qiniucdn.com" : 1,
+    "qiniu.com" : 1,
     "qire123.com" : 1,
     "qiushibaike.com" : 1,
     "qiyi.com" : 1,
