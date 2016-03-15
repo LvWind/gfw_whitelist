@@ -5,6 +5,7 @@ var proxy = 'PROXY 127.0.0.1:8123; DIRECT';
 var direct = 'DIRECT';
 
 var domains = {
+    "qbox.me":1,
     "clouddn.com":1,
     "pingwest.com":1,
     "bootcss.com":1,
@@ -543,6 +544,7 @@ var domains = {
     "qingdaonews.com" : 1,
     "qiniucdn.com" : 1,
     "qiniu.com" : 1,
+    "qiniu.io" : 1,
     "qire123.com" : 1,
     "qiushibaike.com" : 1,
     "qiyi.com" : 1,
