@@ -209,6 +209,7 @@ var domains = {
     "bestb2b.com" : 1,
     "betrad.com" : 1,
     "bilibili.tv" : 1,
+    "bilibili.com" : 1,
     "bing.com" : 1,
     "bitauto.com" : 1,
     "bjbus.com" : 1,
