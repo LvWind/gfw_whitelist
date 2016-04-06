@@ -641,6 +641,7 @@ var domains = {
     "u17.com" : 1,
     "ucjoy.com" : 1,
     "ulink.cc" : 1,
+    "umeng.com" : 1,
     "umiwi.com" : 1,
     "uniontoufang.com" : 1,
     "up2c.com" : 1,
