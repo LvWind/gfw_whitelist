@@ -738,7 +738,10 @@ var domains = {
     "zoosnet.net" : 1,
     "zqgame.com" : 1,
     "ztgame.com" : 1,
-    "zx915.com" : 1
+    "zx915.com" : 1,
+    "acfun.tv" : 1,
+    "aixifan.com" : 1,
+    "acgvideo.com" : 1
 
 };
 
