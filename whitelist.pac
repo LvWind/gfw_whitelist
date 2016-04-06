@@ -506,6 +506,7 @@ var domains = {
     "netease.com" : 1,
     "newsmth.net" : 1,
     "ngacn.cc" : 1,
+    "nga.cn" : 1,
     "nipic.com" : 1,
     "njobt.com" : 1,
     "nowec.com" : 1,
