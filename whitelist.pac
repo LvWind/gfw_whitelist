@@ -746,8 +746,10 @@ var domains = {
     "zx915.com" : 1,
     "acfun.tv" : 1,
     "aixifan.com" : 1,
-    "acgvideo.com" : 1
-
+    "acgvideo.com" : 1,
+    "meituan.net" : 1,
+    "sohu.com" : 1,
+    "sspai.com" : 1
 };
 
 function FindProxyForURL(url, host) {
